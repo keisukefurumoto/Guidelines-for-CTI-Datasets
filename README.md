@@ -35,7 +35,7 @@ Specifically, we intend to make these portions available to academic researchers
 
 This controlled sharing policy is intended to strike a balance between the need for research transparency and adherence to legal and ethical obligations, such as copyright restrictions and terms of service associated with certain vendor documents.<br>
 
-Contact:
+Contact:<br>
 Tomohiro Morikawa
 morikawa@gsis.u-hyogo.ac.jp<br>
 Keisuke Furumoto
