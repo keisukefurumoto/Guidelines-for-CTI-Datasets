@@ -16,11 +16,17 @@ We provide the necessary information for constructing **well-balanced datasets**
 Our paper [1] showed that existing CTI research uses unbalanced datasets. We used the following datasets and their statistical information (IoC).
 
 1. Datasets<br>
-   -Security Reports(17 vendors)
-   -Public Databases(NVD, ExploitDB)
-   -Dark Web Datasets(Market and Forum Sites)
+   -Security Reports(17 vendors)<br>
+   -Public Databases(NVD, ExploitDB)<br>
+   -Dark Web Datasets(Market and Forum Sites)<br>
 2. statistical information (IoC)<br>
-   -IPv4, FQDN, Email, URL, File name, Hash, CVE<br>
+   -IPv4<br>
+   -FQDN<br>
+   -Email<br>
+   -URL<br>
+   -File name<br>
+   -Hash<br>
+   -CVE<br>
 
 ### Availability of our dataset
 Due to the inclusion of proprietary and potentially copyright-protected content (e.g., vendor reports), we must carefully manage access to the dataset and are unable to release it publicly in the strictest sense. However, recognizing the importance of reproducibility and research advancement in the field of CTI, we plan to share portions of the dataset (e.g., extracted indicators, metadata, annotated subsets) with researchers under controlled conditions.<br>
