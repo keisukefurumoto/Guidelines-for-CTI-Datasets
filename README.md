@@ -16,12 +16,21 @@ We provide the necessary information for constructing **well-balanced datasets**
 Our paper [1] showed that existing CTI research uses unbalanced datasets. We used the following datasets and their statistical information (IoC).
 
 1. Datasets<br>
-   -When using a dataset from a security report, it should be considered that vendors include different numbers and types of IoC<br>
-   -For a practical evaluation, the bias among the original datasets should be considered when constructing the experimental dataset.<br>
-   -When merging data from the Surface Web and the Dark Web, it should be considered whether the IoCs that can be merged are included in the first place.<br>
+   -Security Reports(17 vendors)
+   -Public Databases(NVD, ExploitDB)
+   -Dark Web Datasets(Market and Forum Sites)
 2. statistical information (IoC)<br>
-   -Security Reports, Public Database: IPv4, FQDN, Email, URL, File name, Hash, CVE<br>
+   -IPv4, FQDN, Email, URL, File name, Hash, CVE<br>
+
+### Availability of our dataset
+Due to the inclusion of proprietary and potentially copyright-protected content (e.g., vendor reports), we must carefully manage access to the dataset and are unable to release it publicly in the strictest sense. However, recognizing the importance of reproducibility and research advancement in the field of CTI, we plan to share portions of the dataset (e.g., extracted indicators, metadata, annotated subsets) with researchers under controlled conditions.<br>
+
+Specifically, we intend to make these portions available to academic researchers who enter into a research agreement or Memorandum of Understanding (MoU) with our institution. Eligible recipients typically include researchers affiliated with universities or public research organizations (e.g., those with institutional email addresses).<br>
+
+This controlled sharing policy is intended to strike a balance between the need for research transparency and adherence to legal and ethical obligations, such as copyright restrictions and terms of service associated with certain vendor documents.<br>
 
 Contact:
 Tomohiro Morikawa
-morikawa@gsis.u-hyogo.ac.jp
+morikawa@gsis.u-hyogo.ac.jp<br>
+Keisuke Furumoto
+k.furumoto@nict.go.jp<br>
