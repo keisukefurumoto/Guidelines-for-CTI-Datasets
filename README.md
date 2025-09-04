@@ -6,6 +6,12 @@
 
 [1] (Under Review) Keisuke Furumoto, Tomohiro Morikawa, Antti Kolehmainen, Bilhanan Silverajan, Takeshi Takahashi, Daisuke Inoue, "A Comprehensive Survey of Threat Intelligence Research: A Measurement-Based Study" ACM Computing Surveys.
 
+### Background:<br>
+The relationship between clients and groups behind cyber attacks has become complicated, making it challenging to deal with cyber attacks.
+The use of various types of threat information related to cyber attacks, often referred to as cyber threat intelligence (CTI), is necessary.
+Therefore, recent trends in the cyber security field are the management and sharing of various types of CTI and the cross-analysis of multiple types of CTI to deal with sophisticated and complex cyber attacks. 
+
+
 This website provides the following information:<br>
 1. Requirements for CTI Datasets<br>
    -When using a dataset from a security report, it should be considered that vendors include different numbers and types of IoC<br>
