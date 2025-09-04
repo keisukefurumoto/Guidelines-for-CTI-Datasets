@@ -8,7 +8,11 @@
 
 This website provides the following information:
 1. Requirements for CTI Datasets
+   -When using a dataset from a security report, it should be considered that vendors include different numbers and types of IoC
+   -For a practical evaluation, the bias among the original datasets should be considered when constructing the experimental dataset.
+   -When merging data from the Surface Web and the Dark Web, it should be considered whether the IoCs that can be merged are included in the first place
 2. Conditions under which we provide CTI dataset samples and metadata
+   -Security Reports, Public Database: IPv4, FQDN, Email, URL, File name, Hash, CVE
 
 Contact:
 Tomohiro Morikawa
