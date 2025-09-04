@@ -8,8 +8,12 @@
 
 ### Background:<br>
 The relationship between clients and groups behind cyber attacks has become complicated, making it challenging to deal with cyber attacks.
-The use of various types of threat information related to cyber attacks, often referred to as cyber threat intelligence (CTI), is necessary.
+The use of various types of threat information related to cyber attacks, often referred to as **Cyber Threat Intelligence (CTI)**, is necessary.
 Therefore, recent trends in the cyber security field are the management and sharing of various types of CTI and the cross-analysis of multiple types of CTI to deal with sophisticated and complex cyber attacks. 
+
+### Purpose of this website:<br>
+We provide the necessary information for constructing **well-balanced datasets** required for CTI research.
+
 
 
 This website provides the following information:<br>
