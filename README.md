@@ -4,7 +4,7 @@
 
 ## *Detailed information will be released on this website after publication of the paper [1].
 
-[1] (Under Review) Keisuke Furumoto, Tomohiro Morikawa, Antti Kolehmainen, Bilhanan Silverajan, Takeshi Takahashi, Daisuke Inoue, "A Comprehensive Survey of Threat Intelligence Research: A Measurement-Based Study" ACM Computing Surveys.
+*[1] (Under Review) Keisuke Furumoto, Tomohiro Morikawa, Antti Kolehmainen, Bilhanan Silverajan, Takeshi Takahashi, Daisuke Inoue, "A Comprehensive Survey of Threat Intelligence Research: A Measurement-Based Study" ACM Computing Surveys.*
 
 ### Background:<br>
 The relationship between clients and groups behind cyber attacks has become complicated, making it challenging to deal with cyber attacks.
@@ -13,15 +13,13 @@ Therefore, recent trends in the cyber security field are the management and shar
 
 ### Purpose of this website:<br>
 We provide the necessary information for constructing **well-balanced datasets** required for CTI research.
+Our paper [1] showed that existing CTI research uses unbalanced datasets. We used the following datasets and their statistical information (IoC).
 
-
-
-This website provides the following information:<br>
-1. Requirements for CTI Datasets<br>
+1. Datasets<br>
    -When using a dataset from a security report, it should be considered that vendors include different numbers and types of IoC<br>
    -For a practical evaluation, the bias among the original datasets should be considered when constructing the experimental dataset.<br>
    -When merging data from the Surface Web and the Dark Web, it should be considered whether the IoCs that can be merged are included in the first place.<br>
-2. Conditions under which we provide CTI dataset samples and metadata<br>
+2. statistical information (IoC)<br>
    -Security Reports, Public Database: IPv4, FQDN, Email, URL, File name, Hash, CVE<br>
 
 Contact:
