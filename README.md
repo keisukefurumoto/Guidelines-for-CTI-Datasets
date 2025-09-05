@@ -29,8 +29,8 @@ Our paper [1] showed that existing CTI research uses unbalanced datasets. We use
    -CVE<br>
 
 ### Availability of our dataset
-- If you are a student, please ask your supervisor to email us. <br>
-- If you are a faculty member, please send us the email from your university's email account.<br>
+- If you are a student, please have your academic advisor contact us directly by email to request access. <br>
+- If you are a faculty member, kindly send the request from your official university email account. <br>
 - Please include your name and affiliation in your email. <br>
 - The information is needed for verification purposes. <br>
 - Your request may be ignored if we cannot determine your identity or affiliation.<br>
