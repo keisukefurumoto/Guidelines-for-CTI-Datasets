@@ -29,9 +29,9 @@ Our paper [1] showed that existing CTI research uses unbalanced datasets. We use
    -CVE<br>
 
 ### Availability of our dataset
-Due to the inclusion of proprietary and potentially copyright-protected content (e.g., vendor reports), we must carefully manage access to the dataset and are unable to release it publicly in the strictest sense. However, recognizing the importance of reproducibility and research advancement in the field of CTI, we plan to share portions of the dataset (e.g., extracted indicators, metadata, annotated subsets) with researchers under controlled conditions.<br>
+Due to the inclusion of proprietary and potentially copyright-protected content (e.g., vendor reports), we must carefully manage access to the dataset and are unable to release it publicly in the strictest sense.<br>
 
-Specifically, we intend to make these portions available to academic researchers who enter into a research agreement or Memorandum of Understanding (MoU) with our institution. Eligible recipients typically include researchers affiliated with universities or public research organizations (e.g., those with institutional email addresses).<br>
+We intend to make these portions available to academic researchers who enter into a research agreement or Memorandum of Understanding (MoU) with our institution. Eligible recipients typically include researchers affiliated with universities or public research organizations (e.g., those with institutional email addresses).<br>
 
 This controlled sharing policy is intended to strike a balance between the need for research transparency and adherence to legal and ethical obligations, such as copyright restrictions and terms of service associated with certain vendor documents.<br>
 
