@@ -31,9 +31,7 @@ Our paper [1] showed that existing CTI research uses unbalanced datasets. We use
 ### Availability of our dataset
 - If you are a student, please have your academic advisor contact us directly by email to request access. <br>
 - If you are a faculty member, kindly send the request from your official university email account. <br>
-- Please include your name and affiliation in your email. <br>
-- The information is needed for verification purposes. <br>
-- Your request may be ignored if we cannot determine your identity or affiliation.<br>
+- In your email, please include your name, affiliation, and personal or lab homepage. This information is required for verification purposes. Please note that your request may be declined if we are unable to verify your identity or affiliation.
 
 Due to the inclusion of proprietary and potentially copyright-protected content (e.g., vendor reports), we must carefully manage access to the dataset and cannot release it publicly in its entirety. However, portions of the dataset will be made available to academic researchers who enter into a research agreement or Memorandum of Understanding (MoU) with our institution. Eligible recipients generally include researchers affiliated with universities or public research organizations (e.g., those with institutional email addresses). This controlled sharing policy is designed to balance the need for research transparency with compliance to legal and ethical obligations, such as copyright restrictions and vendor terms of service.<br>
 
