@@ -29,11 +29,13 @@ Our paper [1] showed that existing CTI research uses unbalanced datasets. We use
    -CVE<br>
 
 ### Availability of our dataset
-Due to the inclusion of proprietary and potentially copyright-protected content (e.g., vendor reports), we must carefully manage access to the dataset and are unable to release it publicly in the strictest sense.<br>
+Due to the inclusion of proprietary and potentially copyright-protected content (e.g., vendor reports), we must carefully manage access to the dataset and cannot release it publicly in its entirety. However, portions of the dataset will be made available to academic researchers who enter into a research agreement or Memorandum of Understanding (MoU) with our institution. Eligible recipients generally include researchers affiliated with universities or public research organizations (e.g., those with institutional email addresses). This controlled sharing policy is designed to balance the need for research transparency with compliance to legal and ethical obligations, such as copyright restrictions and vendor terms of service.<br>
 
-We intend to make these portions available to academic researchers who enter into a research agreement or Memorandum of Understanding (MoU) with our institution. Eligible recipients typically include researchers affiliated with universities or public research organizations (e.g., those with institutional email addresses).<br>
-
-This controlled sharing policy is intended to strike a balance between the need for research transparency and adherence to legal and ethical obligations, such as copyright restrictions and terms of service associated with certain vendor documents.<br>
+- If you are a student, please ask your supervisor to email us. <br>
+- If you are a faculty member, please send us the email from your university's email account.<br>
+- Please include your name and affiliation in your email. <br>
+- The information is needed for verification purposes. <br>
+- *Your request may be ignored if we cannot determine your identity or affiliation.<br>
 
 Contact:<br>
 Tomohiro Morikawa
